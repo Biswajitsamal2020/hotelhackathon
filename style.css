@@ -1,0 +1,150 @@
+body{
+    background-color: rgb(252, 4, 66);
+    margin: 0%;
+    padding: 0%;
+}
+.body1{
+padding: 20px 10px;
+}
+
+.header{
+    display: flex;
+background-color: whitesmoke;
+}
+.header-logo{
+    
+}
+.header-search{
+    margin: 5px;
+    padding-left: 45%;
+    
+}
+.header-icons{
+display: flex;
+justify-content: right;
+width: 100%;
+padding-left: 300px;
+
+
+}
+
+.header-icons-1{
+    margin: 5px;
+    height:25px;
+    
+}
+.header-icons-2 img{
+    height:25px;
+    margin: 5px;
+}
+.header-icons-3 img{
+    height:25px;
+    margin: 5px;
+    border-radius: 50%;
+}
+.header-icons-4 p{
+    margin:10px;
+}
+.body-part{
+display:flex;
+background-color:whitesmoke;
+}
+.body-part-1{
+    width: 200px;
+    float: left;
+    min-height: 100px;
+    
+    background-color: rgba(0, 0, 0, 0.726);
+}
+.body-part-2{
+height: 950px;
+width: 100%;
+    background-color: white;
+    
+}
+
+
+.sub-1 h3{
+    padding: 20px;
+    text-align: center;
+   
+    text-decoration-color: bisque;
+}
+.sub-1 a{
+    text-decoration: none;
+    color: white;
+}
+.sub-1 :hover{
+    background-color: rgb(252, 4, 66);
+}
+
+.body-part-2-1{
+margin: 0px;
+padding: 0px;
+}
+.body-part-2 img{
+height: 220px;
+width: 386px;
+margin: -2px;
+}
+.body-part-2-2{
+    display: flex;
+    background-color: rgb(235, 220, 220);
+    
+   
+}
+.body-part-2-2 h1{
+    color: rgb(163, 152, 152);
+    margin: 10px;
+    
+}
+.body-part-2-2-2{
+ 
+   background-color: rgb(222, 230, 230);
+   width: 64%;
+   text-align: right;
+   
+}  
+.body-part-2-2-2 a{
+    color: rgb(211, 39, 39);
+}
+.body-part-2-2-3{
+    
+    text-align: right;
+    background-color: rgb(230, 17, 17);
+   
+}
+.body-part-2-3-1{
+    float: left;
+    background-color: rgb(214, 214, 214);
+    width: 400px;
+    height: 550px;
+    margin: 50px;
+    font-style: normal;
+    color: rgb(172, 148, 148);
+
+}
+.body-part-2-3{
+    display: flex;
+}
+.body-part-2-3-2-1{
+    width: 250px;
+    height: 180px;
+    margin: 50px;
+    font-style: normal;
+    color: rgb(172, 148, 148);
+    background-color: rgb(214, 214, 214);
+    
+}
+.body-part-2-3-2-2{
+    width: 250px;
+    height: 180px;
+    margin: 50px;
+    font-style: normal;
+    color: rgb(172, 148, 148);
+    background-color: rgb(214, 214, 214);
+    
+}
+.body-part-2-3-2-3{
+    margin: 50px;
+}
